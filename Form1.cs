@@ -76,6 +76,7 @@ namespace super
             ee.Dispose();
             rBrush.Dispose();
             rrBrush.Dispose();
+            raBrush.Dispose();
             pictureBox1.Refresh();
             xxx = xxx + xxxx;
             xxx1 = xxx1 + xxxx1;
