@@ -1,1 +1,1 @@
-encode to 16 code page
+super planet and moon orbit
